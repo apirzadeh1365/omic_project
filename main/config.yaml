@@ -1,0 +1,4 @@
+root: "main"
+datadir: "data/"
+diarydir: "data/diary/"
+barcodesdir: "data/barcodes/"
